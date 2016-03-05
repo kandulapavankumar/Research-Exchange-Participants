@@ -1,0 +1,1362 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 5, 2015, 7:14:11 PM
+    Author     : Varun Amin
+*/
+/*  1 */
+
+.about body{
+                 margin:0px;
+             }
+            .about .header{
+                background-color: rgba(128, 128, 128, 0.29);
+                height: 75px;
+                width: 100%;
+            }
+            .about .h_first{
+                color: rgb(14, 187, 21);
+                line-height: 75px;
+                float: left;
+                margin-left: 5%
+            }
+            .about .h_last{
+                line-height: 75px;
+                float: right;
+                margin-right: 5%;
+                
+            }
+            .about .h_span{
+                    display:inline;
+                    padding-left: 20px !important;
+                    
+                }
+                .about .h_span a {
+                    text-decoration: none;
+                    color: black;
+                }    
+            .about .main{
+                  height: 454px;
+                  width: 100%;
+            }
+            .about .footer{
+                background-color: rgba(195, 91, 91, 0.94);
+                height: 50px;
+                width: 100%;
+            }
+            .about .f_first{
+                color: rgb(255, 255, 255);
+                line-height: 50px;
+                float: none;
+                margin-left: 5%;
+            }            
+            .about .content{
+                border: 1px solid black;
+                margin-top: 120px;
+                width: 592px;
+                margin-left: auto;
+                margin-right: auto;
+                padding: 10px;
+            }
+            .about .content span{
+                display: block;
+                margin-bottom: 20px;
+            }
+            .about .content span:first-child{
+                font-weight: bold;
+            }
+            
+            
+ /*  2 */
+ 
+.aboutl body{
+                 margin:0px;
+             }
+            .aboutl .header{
+                background-color: rgba(128, 128, 128, 0.29);
+                height: 75px;
+                width: 100%;
+            }
+            .aboutl .h_first{
+                color: rgb(14, 187, 21);
+                line-height: 75px;
+                float: left;
+                margin-left: 5%
+            }
+            .aboutl .h_last{
+                line-height: 75px;
+                float: right;
+                margin-right: 5%;
+                
+            }
+            .aboutl .h_span{
+                    display:inline;
+                    padding-left: 20px !important;
+                    
+                }
+                .aboutl .h_span a {
+                    text-decoration: none;
+                    color: black;
+                }    
+            .aboutl .main{
+                  height: 554px;
+                  width: 100%;
+            }
+            .aboutl .footer{
+                background-color: rgba(195, 91, 91, 0.94);
+                height: 50px;
+                width: 100%;
+            }
+            .aboutl .f_first{
+                color: rgb(255, 255, 255);
+                line-height: 50px;
+                float: none;
+                margin-left: 5%;
+            }
+            .aboutl .tabs tr td{
+                padding: 20px 60px 20px 15px;
+            }
+            .aboutl .tabs tr{
+                border-bottom: 1px solid black;
+            }
+            .aboutl .tabs{
+                border: 1px solid black;
+                border-collapse: collapse;
+                background-color: #C8E6F3;
+            }
+            .aboutl .table_div{
+                width: 209px;
+                margin-left: 30px;
+                display:inline;
+                float: left;
+            }
+            .aboutl .content{
+                margin-top: 20px;
+            }
+            .aboutl .tab_content{
+                border: 1px solid black;
+                height: 155px;
+                width: 610px;
+                display: inline;
+                float: left;
+            }
+            .aboutl .tab_content_inner span{
+                display: block;
+                margin-bottom: 20px;
+            }
+
+            
+            /* 3 */
+
+.confirmc body{
+                margin:0px;
+            }
+           .confirmc .header{
+                background-color: rgba(128, 128, 128, 0.29);
+                height: 75px;
+                width: 100%;
+            }
+           .confirmc .h_first{
+                color: rgb(14, 187, 21);
+                line-height: 75px;
+                float: left;
+                margin-left: 5%
+            }
+           .confirmc .h_last{
+                line-height: 75px;
+                float: right;
+                margin-right: 5%;
+                
+            }
+           .confirmc .h_span{
+                    display:inline;
+                    padding-left: 20px !important;
+                    
+                }
+               .confirmc .h_span a {
+                    text-decoration: none;
+                    color: black;
+                }    
+           .confirmc .main{
+                  height: 574px;
+                  width: 100%;
+            }
+           .confirmc .footer{
+                background-color: rgba(195, 91, 91, 0.94);
+                height: 50px;
+                width: 100%;
+            }
+           .confirmc .f_first{
+                color: rgb(255, 255, 255);
+                line-height: 50px;
+                float: none;
+                margin-left: 5%;
+            }
+           .confirmc .main img{
+                    height: 100%;
+                    margin: 0 auto;
+                    display: block;
+                }
+
+                
+/* 4 */
+
+.confirmr body{
+                 margin:0px;
+             }
+            .confirmr .header{
+                background-color: rgba(128, 128, 128, 0.29);
+                height: 75px;
+                width: 100%;
+            }
+            .confirmr .h_first{
+                color: rgb(14, 187, 21);
+                line-height: 75px;
+                float: left;
+                margin-left: 5%
+            }
+            .confirmr .h_last{
+                line-height: 75px;
+                float: right;
+                margin-right: 5%;
+                
+            }
+            .confirmr .h_span{
+                    display:inline;
+                    padding-left: 20px !important;
+                    
+                }
+                .confirmr .h_span a {
+                    text-decoration: none;
+                    color: black;
+                }    
+            .confirmr .main{
+                  height: 574px;
+                  width: 100%;
+            }
+            .confirmr .footer{
+                background-color: rgba(195, 91, 91, 0.94);
+                height: 50px;
+                width: 100%;
+            }
+            .confirmr .f_first{
+                color: rgb(255, 255, 255);
+                line-height: 50px;
+                float: none;
+                margin-left: 5%;
+            }
+            .confirmr .main img{
+                    height: 100%;
+                    margin: 0 auto;
+                    display: block;
+                }
+            
+                
+                /* 5 */
+
+.contact body{
+                 margin:0px;
+             }
+            .contact .header{
+                background-color: rgba(128, 128, 128, 0.29);
+                height: 75px;
+                width: 100%;
+            }
+            .contact .h_first{
+                color: rgb(14, 187, 21);
+                line-height: 75px;
+                float: left;
+                margin-left: 5%
+            }
+            .contact .h_last{
+                line-height: 75px;
+                float: right;
+                margin-right: 5%;
+                
+            }
+            .contact .h_span{
+                    display:inline;
+                    padding-left: 20px !important;
+                    
+                }
+                .contact .h_span a {
+                    text-decoration: none;
+                    color: black;
+                }    
+
+            .contact .footer{
+                background-color: rgba(195, 91, 91, 0.94);
+                height: 50px;
+                width: 100%;
+            }
+            .contact .f_first{
+                color: rgb(255, 255, 255);
+                line-height: 50px;
+                float: none;
+                margin-left: 5%;
+            }
+            .contact .main img{
+                    height: 100%;
+                    margin: 0 auto;
+                    display: block;
+                }
+            .contact .main{
+                  height: 574px;
+                  width: 100%;
+            }
+            .contact .first_input{
+                margin-top: 100px;
+                text-align: center;
+            }
+            .contact .second_input, .third_input{
+                margin-top: 20px;
+                text-align: center;
+            }
+            .contact .second_input label{
+                padding-left: 3px;                
+            }
+            .contact .third_input input{
+                margin-right: 18px;                
+            }
+            .contact .first_input input, .second_input input{
+                height: 30px;
+                width: 300px;
+            }
+            .contact .third_input input{
+                height: 30px;
+                width: 300px;
+            }
+            .contact .btn_div{
+                text-align: center;
+                margin-right: 50px;
+            }
+            .contact .login_btn{
+                margin-top: 20px;
+                margin-right: 126px;
+                background-color: #1A8CBB;
+                color: white;
+                padding: 10px 20px;
+                border-radius: 8px;
+                border: 1px;  
+            }
+            .contact .tabs tr td{
+                padding: 10px 35px 10px 10px;
+            }
+            .contact .tabs{
+                border: 1px solid black;
+                border-collapse: collapse;
+                background-color: rgba(128, 128, 128, 0.44);
+            }
+            .contact .table_div{
+                width: 209px;
+                margin-left: 30px;
+                display:inline;
+            }
+
+
+/* 6 */
+
+.editstudy body{
+                 margin:0px;
+             }
+            .editstudy .header{
+                background-color: rgba(128, 128, 128, 0.29);
+                height: 75px;
+                width: 100%;
+            }
+            .editstudy .h_first{
+                color: rgb(14, 187, 21);
+                line-height: 75px;
+                float: left;
+                margin-left: 5%
+            }
+            .editstudy .h_last{
+                line-height: 75px;
+                float: right;
+                margin-right: 5%;
+                
+            }
+            .editstudy .h_span{
+                    display:inline;
+                    padding-left: 20px !important;
+                    
+                }
+                .editstudy .h_span a {
+                    text-decoration: none;
+                    color: black;
+                }    
+
+            .editstudy .footer{
+                background-color: rgba(195, 91, 91, 0.94);
+                height: 50px;
+                width: 100%;
+            }
+            .editstudy .f_first{
+                color: rgb(255, 255, 255);
+                line-height: 50px;
+                float: none;
+                margin-left: 5%;
+            }
+            .editstudy .main img{
+                    height: 100%;
+                    margin: 0 auto;
+                    display: block;
+                }
+            .editstudy .main{
+                  height: 574px;
+                  width: 100%;
+            }
+            .editstudy .first_input{
+                margin-top: 30px;
+                text-align: center;
+            }
+            .editstudy .second_input{
+                margin-top: 20px;
+                margin-left: 10px;
+                text-align: center;
+            }
+            .editstudy third_input{
+                margin-top: 20px;
+                margin-right: 10px;
+                text-align: center;
+            }
+            .editstudy .fourth_input{
+                margin-top: 20px;
+                margin-left: 10px;
+                text-align: center;
+            }
+            .editstudy .third_input input{
+                padding-left: 1px;
+                margin-right: 424px;                
+            }
+            .editstudy .fourth_input input{
+                margin-right: 74px;                
+            }
+            .editstudy .first_input input, .second_input input, .third_input input, .fourth_input  input{
+                height: 30px;
+                width: 300px;
+            }
+            .editstudy .browse_btn{
+                margin-top: 1px;
+                margin-right: 207px;
+                background-color: rgba(0, 0, 0, 0.15);
+                color: black;
+                padding: 10px 20px;
+                border-radius: 8px;
+                border: 1px;  
+            }
+            .editstudy .update_btn{
+                margin-top: 20px;
+                margin-right: 126px;
+                background-color: #1A8CBB;
+                color: black;
+                padding: 10px 20px;
+                border-radius: 8px;
+                border: 1px; 
+            }
+            .editstudy .tabs tr td{
+                padding: 10px 35px 10px 10px;
+            }
+            .editstudy .tabs{
+                border: 1px solid black;
+                border-collapse: collapse;
+                background-color: rgba(128, 128, 128, 0.44);
+            }
+
+            
+ /* 7 */
+
+.home body{
+                 margin:0px;
+             }
+            .home .header{
+                background-color: rgba(128, 128, 128, 0.29);
+                height: 75px;
+                width: 100%;
+            }
+            .home .h_first{
+                color: rgb(14, 187, 21);
+                line-height: 75px;
+                float: left;
+                margin-left: 5%
+            }
+            .home .h_last{
+                line-height: 75px;
+                float: right;
+                margin-right: 5%;
+                
+            }
+            .home .h_span{
+                    display:inline;
+                    padding-left: 20px !important;
+                    
+                }
+                .home .h_span a {
+                    text-decoration: none;
+                    color: black;
+                }    
+            .home .main{
+                  height: 574px;
+                  width: 100%;
+            }
+            .home .footer{
+                background-color: rgba(195, 91, 91, 0.94);
+                height: 50px;
+                width: 100%;
+            }
+            .home .f_first{
+                color: rgb(255, 255, 255);
+                line-height: 50px;
+                float: none;
+                margin-left: 5%;
+            }
+            .home .main img{
+                    height: 100%;
+                    margin: 0 auto;
+                    display: block;
+                }                
+    /* 8 */
+
+.how body{
+                 margin:0px;
+             }
+            .how .header{
+                background-color: rgba(128, 128, 128, 0.29);
+                height: 75px;
+                width: 100%;
+            }
+            .how .h_first{
+                color: rgb(14, 187, 21);
+                line-height: 75px;
+                float: left;
+                margin-left: 5%
+            }
+            .how .h_last{
+                line-height: 75px;
+                float: right;
+                margin-right: 5%;
+                
+            }
+            .how .h_span{
+                    display:inline;
+                    padding-left: 20px !important;
+                    
+                }
+                .how .h_span a {
+                    text-decoration: none;
+                    color: black;
+                }    
+            .how .main{
+                  height: 454px;
+                  width: 100%;
+            }
+            .how .footer{
+                background-color: rgba(195, 91, 91, 0.94);
+                height: 50px;
+                width: 100%;
+            }
+            .how .f_first{
+                color: rgb(255, 255, 255);
+                line-height: 50px;
+                float: none;
+                margin-left: 5%;
+            }            
+            .how .content{
+                border: 1px solid black;
+                margin-top: 120px;
+                width: 592px;
+                margin-left: auto;
+                margin-right: auto;
+                padding: 10px;
+            }
+            .how .content span{
+                display: block;
+                margin-bottom: 20px;
+            }
+            .how .content span:first-child{
+                font-weight: bold;
+            }
+    
+            
+            /* 9 */
+.login body{
+                 margin:0px;
+             }
+            .login .header{
+                background-color: rgba(128, 128, 128, 0.29);
+                height: 75px;
+                width: 100%;
+            }
+            .login .h_first{
+                color: rgb(14, 187, 21);
+                line-height: 75px;
+                float: left;
+                margin-left: 5%
+            }
+            .login .h_last{
+                line-height: 75px;
+                float: right;
+                margin-right: 5%;
+                
+            }
+            .login .h_span{
+                    display:inline;
+                    padding-left: 20px !important;
+                    
+                }
+                .login .h_span a {
+                    text-decoration: none;
+                    color: black;
+                }    
+
+            .login .footer{
+                background-color: rgba(195, 91, 91, 0.94);
+                height: 50px;
+                width: 100%;
+            }
+            .login .f_first{
+                color: rgb(255, 255, 255);
+                line-height: 50px;
+                float: none;
+                margin-left: 5%;
+            }
+            .login .main img{
+                    height: 100%;
+                    margin: 0 auto;
+                    display: block;
+                }
+            .login .main{
+                  height: 374px;
+                  width: 100%;
+            }
+            .login .first_input{
+                margin-top: 200px;
+                
+                text-align: center;
+            }
+            .login .second_input{
+                margin-top: 20px;
+                text-align: center;
+            }
+            .login .second_input label{
+                padding-left: 31px;                
+            }
+            .login .first_input input, .second_input input {
+                height: 30px;
+                width: 300px;
+            }
+            .login .btn_div{
+                text-align: center;
+                
+            }
+            .login .login_btn{
+                margin-top: 20px;
+                margin-right: 126px;
+                background-color: #1A8CBB;
+                color: white;
+                padding: 10px 20px;
+                border-radius: 8px;
+                border: 1px;  
+            }
+            .login .sign_up_div{
+                text-align: center;
+                margin-top: 50px;
+                color: #1A8CBB;
+                font-size: 20px;
+                padding-left: 13px;
+            }
+            .login .signup_a{
+                
+            }
+            
+            /* 10 */
+            
+.main1 body{
+                 margin:0px;
+             }
+            .main1 .header{
+                background-color: rgba(128, 128, 128, 0.29);
+                height: 75px;
+                width: 100%;
+            }
+            .main1 .h_first{
+                color: rgb(14, 187, 21);
+                line-height: 75px;
+                float: left;
+                margin-left: 5%
+            }
+            .main1 .h_last{
+                line-height: 75px;
+                float: right;
+                margin-right: 5%;
+                
+            }
+            .main1 .h_span{
+                    display:inline;
+                    padding-left: 20px !important;
+                    
+                }
+                .main1 .h_span a {
+                    text-decoration: none;
+                    color: black;
+                }    
+            .main1 .main{
+                  height: 554px;
+                  width: 100%;
+            }
+            .main1 .footer{
+                background-color: rgba(195, 91, 91, 0.94);
+                height: 50px;
+                width: 100%;
+            }
+            .main1 .f_first{
+                color: rgb(255, 255, 255);
+                line-height: 50px;
+                float: none;
+                margin-left: 5%;
+            }
+            .main1 .tabs tr td{
+                padding: 20px 60px 20px 15px;
+            }
+            .main1 .tabs tr{
+                border-bottom: 1px solid black;
+            }
+            .main1 .tabs{
+                border: 1px solid black;
+                border-collapse: collapse;
+                background-color: #C8E6F3;
+            }
+            .main1 .table_div{
+                width: 209px;
+                margin-left: 30px;
+                display:inline;
+                float: left;
+            }
+            .main1 .content{
+                margin-top: 20px;
+            }
+            .main1 .tab_content{
+                border: 1px solid black;
+                height: 200px;
+                width: 900px;
+                display: inline;
+                float: left;
+            }
+            .main1 .tab_content_inner span{
+                display: block;
+                margin-bottom: 20px;
+            }
+
+
+/* 11 */
+
+.newstudy body{
+                 margin:0px;
+             }
+            .newstudy .header{
+                background-color: rgba(128, 128, 128, 0.29);
+                height: 75px;
+                width: 100%;
+            }
+            .newstudy .h_first{
+                color: rgb(14, 187, 21);
+                line-height: 75px;
+                float: left;
+                margin-left: 5%
+            }
+            .newstudy .h_last{
+                line-height: 75px;
+                float: right;
+                margin-right: 5%;
+                
+            }
+            .newstudy .h_span{
+                    display:inline;
+                    padding-left: 20px !important;
+                    
+                }
+                .newstudy .h_span a {
+                    text-decoration: none;
+                    color: black;
+                }    
+
+            .newstudy .footer{
+                background-color: rgba(195, 91, 91, 0.94);
+                height: 50px;
+                width: 100%;
+            }
+            .newstudy .f_first{
+                color: rgb(255, 255, 255);
+                line-height: 50px;
+                float: none;
+                margin-left: 5%;
+            }
+            .newstudy .main img{
+                    height: 100%;
+                    margin: 0 auto;
+                    display: block;
+                }
+            .newstudy .main{
+                  height: 574px;
+                  width: 100%;
+            }
+            .newstudy .first_input{
+                margin-top: 30px;
+                text-align: center;
+            }
+            .newstudy .second_input{
+                margin-top: 20px;
+                margin-left: 10px;
+                text-align: center;
+            }
+            .newstudy third_input{
+                margin-top: 20px;
+                margin-right: 10px;
+                text-align: center;
+            }
+            .newstudy .fourth_input{
+                margin-top: 20px;
+                margin-left: 10px;
+                text-align: center;
+            }
+            .newstudy .third_input input{
+                padding-left: 1px;
+                margin-right: 424px;                
+            }
+            .newstudy .fourth_input input{
+                margin-right: 74px;                
+            }
+            .newstudy .first_input input, .second_input input, .third_input input, .fourth_input  input{
+                height: 30px;
+                width: 300px;
+            }
+            .newstudy .login_btn1{
+                margin-top: 20px;
+                margin-right: 126px;
+                background-color: rgba(0, 0, 0, 0.15);
+                color: black;
+                padding: 10px 20px;
+                border-radius: 8px;
+                border: 1px;  
+            }
+            .newstudy .login_btn2{
+                margin-top: 20px;
+                margin-right: 126px;
+                background-color: #1A8CBB;
+                color: black;
+                padding: 10px 20px;
+                border-radius: 8px;
+                border: 1px; 
+            }
+            .newstudy .tabs tr td{
+                padding: 10px 35px 10px 10px;
+            }
+            .newstudy .tabs{
+                border: 1px solid black;
+                border-collapse: collapse;
+                background-color: rgba(128, 128, 128, 0.44);
+            }
+            
+       /* 12 */
+
+.participate body{
+                 margin:0px;
+             }
+            .participate .header{
+                background-color: rgba(128, 128, 128, 0.29);
+                height: 75px;
+                width: 100%;
+            }
+            .participate .h_first{
+                color: rgb(14, 187, 21);
+                line-height: 75px;
+                float: left;
+                margin-left: 5%
+            }
+            .participate .h_last{
+                line-height: 75px;
+                float: right;
+                margin-right: 5%;
+                
+            }
+            .participate .h_span{
+                    display:inline;
+                    padding-left: 20px !important;
+                    
+                }
+                .participate .h_span a {
+                    text-decoration: none;
+                    color: black;
+                }    
+            .participate .main{
+                  height: 554px;
+                  width: 100%;
+            }
+            .participate .footer{
+                background-color: rgba(195, 91, 91, 0.94);
+                height: 50px;
+                width: 100%;
+            }
+            .participate .f_first{
+                color: rgb(255, 255, 255);
+                line-height: 50px;
+                float: none;
+                margin-left: 5%;
+            }
+            .participate .tabs tr td{
+                padding: 20px 60px 20px 15px;
+            }
+            .participate .tabs tr{
+                border-bottom: 1px solid black;
+            }
+            .participate .tabs{
+                border: 1px solid black;
+                border-collapse: collapse;
+                background-color: #C8E6F3;
+            }
+            .participate .table_div{
+                width: 209px;
+                margin-left: 30px;
+                display:inline;
+                float: left;
+            }
+            .participate .content{
+                margin-top: 20px;
+            }
+            .participate .tab_content1{
+                border: 1px solid black;
+                height: 200px;
+                width: 900px;
+                display: inline;
+                float: left;
+                margin-top: 50px;
+            }
+            .participate .tab_content_inner span1{
+                display: block;
+                margin-bottom: 20px;
+            }
+            .participate .tabs1 tr td{
+                padding: 10px 60px 10px 10px;
+            }
+            .participate .tabs1{
+                border: 1px solid black;
+                border-collapse: collapse;
+                background-color: grey;
+            }
+            .participate .table_div2{
+                width: 209px;
+                display:inline;
+                padding: 5px;
+                text-align: center;
+                border: 1px red;
+            }
+            .participate .table_div2 .tabs1{
+                background-color: rgba(80, 71, 71, 0.23);
+                margin-top: 60px;
+            }
+            .participate .table_div2 .tabs1 tr td{
+                height: 15px;
+            }
+            .participate .table_div2 .tabs1 tr:first-child{
+                background-color: black;
+                color: white;
+                font-weight: bold;
+            }
+            .participate .tabs1 tr:nth-child(3), .tabs tr:nth-child(5){
+                background-color:  rgba(243, 239, 239, 0.52);
+            }
+            .participate .btn_studies{
+                padding: 3px 23px;
+                border-radius: 5px;
+                border: 2px solid black;
+            }
+            
+/* 13 */
+
+.question body{
+                 margin:0px;
+             }
+            .question .header{
+                background-color: rgba(128, 128, 128, 0.29);
+                height: 75px;
+                width: 100%;
+            }
+            .question .h_first{
+                color: rgb(14, 187, 21);
+                line-height: 75px;
+                float: left;
+                margin-left: 5%
+            }
+            .question .h_last{
+                line-height: 75px;
+                float: right;
+                margin-right: 5%;
+                
+            }
+            .question .h_span{
+                    display:inline;
+                    padding-left: 20px !important;
+                    
+                }
+                .question .h_span a {
+                    text-decoration: none;
+                    color: black;
+                }    
+            .question .main{
+                  height: 554px;
+                  width: 100%;
+            }
+            .question .footer{
+                background-color: rgba(195, 91, 91, 0.94);
+                height: 50px;
+                width: 100%;
+            }
+            .question .f_first{
+                color: rgb(255, 255, 255);
+                line-height: 50px;
+                float: none;
+                margin-left: 5%;
+            }
+            .question .tabs tr td{
+                padding: 20px 60px 20px 15px;
+            }
+            .question .tabs tr{
+                border-bottom: 1px solid black;
+            }
+            .question .tabs{
+                border: 1px solid black;
+                border-collapse: collapse;
+                background-color: #C8E6F3;
+            }
+            .question .table_div{
+                width: 209px;
+                margin-left: 30px;
+                display:inline;
+                float: left;
+            }
+            .question .content{
+                margin-top: 20px;
+            }
+            .question .tab_content{
+                border: 1px solid black;
+                height: 200px;
+                width: 900px;
+                display: inline;
+                float: left;
+                margin-top: 50px;
+            }
+            .question .tab_content_inner span{
+                display: block;
+                margin-bottom: 20px;
+            }
+            .question .tabs1 tr td{
+                padding: 10px 60px 10px 10px;
+            }
+            .question .tabs1{
+                border: 1px solid black;
+                border-collapse: collapse;
+                background-color: #C8E6F3
+            }
+            .question .submit_btn{
+                padding: 3px 23px;
+                border-radius: 5px;
+                border: 2px solid black;
+                margin-top: 50px;
+                margin-left: 368px;
+            }
+            
+            
+            /* 14 */
+
+.recommend body{
+                 margin:0px;
+             }
+            .recommend .header{
+                background-color: rgba(128, 128, 128, 0.29);
+                height: 75px;
+                width: 100%;
+            }
+            .recommend .h_first{
+                color: rgb(14, 187, 21);
+                line-height: 75px;
+                float: left;
+                margin-left: 5%
+            }
+            .recommend .h_last{
+                line-height: 75px;
+                float: right;
+                margin-right: 5%;
+                
+            }
+            .recommend .h_span{
+                    display:inline;
+                    padding-left: 20px !important;
+                    
+                }
+                .recommend .h_span a {
+                    text-decoration: none;
+                    color: black;
+                }    
+
+            .recommend .footer{
+                background-color: rgba(195, 91, 91, 0.94);
+                height: 50px;
+                width: 100%;
+            }
+            .recommend .f_first{
+                color: rgb(255, 255, 255);
+                line-height: 50px;
+                float: none;
+                margin-left: 5%;
+            }
+            .recommend .main img{
+                    height: 100%;
+                    margin: 0 auto;
+                    display: block;
+                }
+            .recommend .main{
+                  height: 574px;
+                  width: 100%;
+            }
+            .recommend .first_input{
+                margin-top: 75px;
+                text-align: center;
+            }
+            .recommend .second_input, .third_input, .fourth_input{
+                margin-top: 20px;
+                text-align: center;
+            }
+            .recommend third_input, .fourth_input{
+                margin-top: 20px;
+                text-align: center;
+            }
+            .recommend .fourth_input{
+                margin-top: 20px;
+                text-align: center;
+            }
+            .recommend .second_input label{
+                padding-left: 3px;                
+            }
+            .recommend .third_input input{
+                padding-left: 3px;
+                margin-right: 51px;                
+            }
+            .recommend .fourth_input input{
+                margin-right: 74px;                
+            }
+            .recommend .first_input input, .second_input input, .third_input input, .fourth_input  input{
+                height: 30px;
+                width: 300px;
+            }
+            .recommend .btn_div{
+                text-align: center;
+            }
+            .recommend .login_btn{
+                margin-top: 20px;
+                margin-right: 126px;
+                background-color: #1A8CBB;
+                color: white;
+                padding: 10px 20px;
+                border-radius: 8px;
+                border: 1px;  
+            }
+            .recommend .tabs tr td{
+                padding: 10px 35px 10px 10px;
+            }
+            .recommend .tabs{
+                border: 1px solid black;
+                border-collapse: collapse;
+                background-color: rgba(128, 128, 128, 0.44);
+            }
+            .recommend .table_div{
+                width: 209px;
+                margin-left: 30px;
+                display:inline;
+            }
+            
+/* 15 */
+
+.signup body{
+                 margin:0px;
+             }
+            .signup .header{
+                background-color: rgba(128, 128, 128, 0.29);
+                height: 75px;
+                width: 100%;
+            }
+            .signup .h_first{
+                color: rgb(14, 187, 21);
+                line-height: 75px;
+                float: left;
+                margin-left: 5%
+            }
+            .signup .h_last{
+                line-height: 75px;
+                float: right;
+                margin-right: 5%;
+                
+            }
+            .signup .h_span{
+                    display:inline;
+                    padding-left: 20px !important;
+                    
+                }
+                .signup .h_span a {
+                    text-decoration: none;
+                    color: black;
+                }    
+
+            .signup .footer{
+                background-color: rgba(195, 91, 91, 0.94);
+                height: 50px;
+                width: 100%;
+            }
+            .signup .f_first{
+                color: rgb(255, 255, 255);
+                line-height: 50px;
+                float: none;
+                margin-left: 5%;
+            }
+            .signup .main img{
+                    height: 100%;
+                    margin: 0 auto;
+                    display: block;
+                }
+            .signup .main{
+                  height: 424px;
+                  width: 100%;
+            }
+            .signup .first_input{
+                margin-top: 150px;
+                
+                text-align: center;
+            }
+            .signup .second_input, .third_input, .fourth_input{
+                margin-top: 20px;
+                
+                text-align: center;
+            }
+            .signup .second_input label{
+                padding-left: 3px;                
+            }
+            .signup .third_input input{
+                margin-right: 18px;                
+            }
+            .signup .fourth_input input{
+                margin-right: 74px;                
+            }
+            .signup .first_input input, .second_input input, .third_input input, .fourth_input  input{
+                height: 30px;
+                width: 300px;
+            }
+            .signup .btn_div{
+                text-align: center;
+                
+            }
+            .signup .login_btn{
+                margin-top: 20px;
+                margin-right: 126px;
+                background-color: #1A8CBB;
+                color: white;
+                padding: 10px 20px;
+                border-radius: 8px;
+                border: 1px;  
+            }
+            
+  /* 16 */
+
+.studies body{
+                 margin:0px;
+             }
+            .studies .header{
+                background-color: rgba(128, 128, 128, 0.29);
+                height: 75px;
+                width: 100%;
+            }
+            .studies .h_first{
+                color: rgb(14, 187, 21);
+                line-height: 75px;
+                float: left;
+                margin-left: 5%
+            }
+            .studies .h_last{
+                line-height: 75px;
+                float: right;
+                margin-right: 5%;
+                
+            }
+            .studies .h_span{
+                    display:inline;
+                    padding-left: 20px !important;
+                    
+                }
+                .studies .h_span a {
+                    text-decoration: none;
+                    color: black;
+                }    
+            .studies .main{
+                  height: 574px;
+                  width: 100%;
+            }
+            .studies .footer{
+                background-color: rgba(195, 91, 91, 0.94);
+                height: 50px;
+                width: 100%;
+            }
+            .studies .f_first{
+                color: rgb(255, 255, 255);
+                line-height: 50px;
+                float: none;
+                margin-left: 5%;
+            }
+            .studies .main img{
+                    height: 100%;
+                    margin: 0 auto;
+                    display: block;
+            }
+            .studies .tabs tr td{
+                padding: 10px 35px 10px 10px;
+            }
+            .studies .tabs{
+                border: 1px solid black;
+                border-collapse: collapse;
+                background-color: rgba(128, 128, 128, 0.44);
+            }
+            .studies .table_div1{
+                width: 209px;
+                margin-left: 30px;
+                display:inline;
+            }
+            .studies .table_div2{
+                width: 209px;
+                margin-left: 30px;
+                display:inline;
+                padding: 5px;
+                text-align: center;
+                border: 1px red;
+            }
+            .studies .table_div2 .tabs{
+                background-color: rgba(80, 71, 71, 0.23);
+                margin: 0 auto;
+                margin-top: 60px;
+            }
+            .studies .table_div2 .tabs tr td{
+                height: 15px;
+            }
+            .studies .table_div2 .tabs tr:first-child{
+                background-color: black;
+                color: white;
+                font-weight: bold;
+            }
+            .studies .tabs tr:nth-child(3), .tabs tr:nth-child(5){
+                background-color:  #848A8C;
+            }
+            .studies .btn_studies{
+                padding: 3px 23px;
+                border-radius: 5px;
+                border: 2px solid black;
+            }
+            
